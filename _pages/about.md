@@ -7,10 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-HE Zhongjun is the Chair of Baidu Artificial Intelligence Technical Committee. He received his PhD degree from the Institute of Computing Technology of Chinese Academy of Sciences, in 2008. His research focuses on machine translation and natural language processing. He currently leads [Baidu Translate](https://fanyi.baidu.com) at [Natural Language Processing Department](https://nlp.baidu.com/homepage/index). He co-organized [the First Workshop on Simultaneous Translation](https://simultrans-workshop.github.io) at ACL-20. He serves AACL-2020 as Area co-chair and will serve ACL-2021 as Remote Presentation co-chair.
+HE Zhongjun is the Chair of Baidu Artificial Intelligence Technical Committee. He received his PhD degree from the Institute of Computing Technology of Chinese Academy of Sciences, in 2008. His research focuses on machine translation and natural language processing. He currently leads [Baidu Translate](https://fanyi.baidu.com) at [Natural Language Processing Department](https://nlp.baidu.com/homepage/index). He co-organized [the First Workshop on Simultaneous Translation](https://simultrans-workshop.github.io) at ACL-2020. He serves AACL-2020 as Area co-chair and will serve ACL-2021 as Remote Presentation co-chair.
+
+
+Recent Talk
+======
+* Tutorial in Simultaneous Translation at [EMNLP 2020](https://2020.emnlp.org/tutorials). [[video]](https://slideslive.com/38940829/t6-simultaneous-translation)
+
 
 Selected Publications
 ======
+* Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu, and Haifeng Wang. 2020. [Learning Adaptive Segmentation Policy for Simultaneous Translation](https://www.aclweb.org/anthology/2020.emnlp-main.178/). In *Proceedings of EMNLP 2020*, pages 2280–2289, Online, November 16-20, 2020.
 * Yuchen Liu, Jiajun Zhang, Hao Xiong, Long Zhou, Zhongjun He,  Hua Wu, Haifeng Wang, and Chengqing Zong. 2020. [Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding](https://aaai.org/ojs/index.php/AAAI/article/view/6360/6216). In *Proceedings of The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20)*, pages 8417-8424, New York, USA, February 7-12. 
 * Tianchi Bi, Hao Xiong, Zhongjun He, Hua Wu, and Haifeng Wang. 2019. [Multi-agent Learning for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1079.pdf). In *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing*, pages 856–865, Hong Kong, China, November 3–7, 2019. 
 * Yuchen Liu, Hao Xiong, Jiajun Zhang, Zhongjun He, Hua Wu, Haifeng Wang, and Chengqing Zong. 2019. [End-to-End Speech Translation with Knowledge Distillation](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2582.pdf). In *Proceedings of Interspeech 2019*, pages 1128-1132, Graz, Austria, September 15–19, 2019.
