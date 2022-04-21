@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-HE Zhongjun is the Chair of Baidu Artificial Intelligence Technical Committee. He received his PhD degree from the Institute of Computing Technology of Chinese Academy of Sciences, in 2008. His research focuses on machine translation and natural language processing. He currently leads [Baidu Translate](https://fanyi.baidu.com) at [Natural Language Processing Department](https://nlp.baidu.com/homepage/index). He co-organized [the First Workshop on Simultaneous Translation](https://simultrans-workshop.github.io) at ACL-2020. He serves AACL-2020 as Area co-chair and ACL-IJCNLP 2021 as Remote Presentation co-chair.
+HE Zhongjun is the Chair of Baidu Artificial Intelligence Technical Committee. He received his PhD degree from the Institute of Computing Technology of Chinese Academy of Sciences, in 2008. His research focuses on machine translation and natural language processing. He currently leads [Baidu Translate](https://fanyi.baidu.com) at [Natural Language Processing Department](https://nlp.baidu.com/homepage/index). He co-organized [the First Workshop on Simultaneous Translation](https://simultrans-workshop.github.io) at ACL-2020. 
 
 Workshop
 ======
@@ -20,6 +20,14 @@ Recent Talk
 
 Selected Publications
 ======
+* Zheng Fang, Ruiqing Zhang, Zhongjun He, Hua Wu, Yanan Cao. Non-Autoregressive Chinese ASR Error Correction with Phonological Training. Accepted by NAACL 2022.
+
+* Pengzhi Gao, Zhongjun He, Hua Wu, Haifeng Wang. 2022. Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation. Accepted by NAACL 2022.
+
+* Ruiqing Zhang, Zhongjun He, Hua Wu, Haifeng Wang. 2022. Learning Adaptive Segmentation Policy for End-to-End Simultaneous Translation. Accepted by ACL 2022.
+
+* Haifeng Wang, Hua Wu, Zhongjun He, Liang Huang, and Kenneth Ward Church. 2021. [Progress in Machine Translation](https://www.sciencedirect.com/science/article/pii/S2095809921002745). Engineering.  
+
 * Ruiqing Zhang, Chao Pang, Chuanqiang Zhang, Shuohuan Wang, Zhongjun He, Yu Sun, Hua Wu and Haifeng Wang. 2021. [Correcting Chinese Spelling Errors with Phonetic Pre-training](https://aclanthology.org/2021.findings-acl.198.pdf). In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pages 2250–2261, August 1–6, 2021.
 * Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu, and Haifeng Wang. 2020. [Learning Adaptive Segmentation Policy for Simultaneous Translation](https://www.aclweb.org/anthology/2020.emnlp-main.178/). In *Proceedings of EMNLP 2020*, pages 2280–2289, Online, November 16-20, 2020.
 * Yuchen Liu, Jiajun Zhang, Hao Xiong, Long Zhou, Zhongjun He,  Hua Wu, Haifeng Wang, and Chengqing Zong. 2020. [Synchronous Speech Recognition and Speech-to-Text Translation with Interactive Decoding](https://aaai.org/ojs/index.php/AAAI/article/view/6360/6216). In *Proceedings of The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20)*, pages 8417-8424, New York, USA, February 7-12. 
@@ -47,5 +55,14 @@ Awards
 * The Second Prize of the State Preeminent Science and Technology Award of China, 2015
 * The First Prize of the Science and
 Technology Award of the Chinese Institute of Electronics, 2014
+
+Research Activity
+=====
+* ACL Rolling Review: Action Editor
+* Sponsorship Co-Chair: COLING 2022
+* Remote Presentation Co-Chair: ACL-IJCNLP 2021
+* Area Co-Chair: AACL-2020
+
+
 
  
