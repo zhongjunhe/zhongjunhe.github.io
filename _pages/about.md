@@ -7,24 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-HE Zhongjun is the Chair of Baidu Artificial Intelligence Technical Committee. He received his PhD degree from the Institute of Computing Technology of Chinese Academy of Sciences, in 2008. His research focuses on machine translation and natural language processing. He currently leads [Baidu Translate](https://fanyi.baidu.com) at [Natural Language Processing Department](https://nlp.baidu.com/homepage/index). He co-organized [the First Workshop on Simultaneous Translation](https://simultrans-workshop.github.io) at ACL-2020. 
+HE Zhongjun is the Chair of Baidu Artificial Intelligence Technical Committee. He received his PhD degree from the Institute of Computing Technology of Chinese Academy of Sciences, in 2008. His research focuses on machine translation and natural language processing. He currently leads [Baidu Translate](https://fanyi.baidu.com) at [Natural Language Processing Department](https://nlp.baidu.com/homepage/index).  
 
 Workshop
 ======
 I'm the co-organizer of the [Workshop on Automatic Simultaneous Translation.](https://autosimtrans.github.io)
 
-Recent Talk
+Tutorial 
 ======
 * Tutorial in Simultaneous Translation at [EMNLP 2020](https://2020.emnlp.org/tutorials). [[video]](https://slideslive.com/38940829/t6-simultaneous-translation)
 
 
 Selected Publications
 ======
-* Zheng Fang, Ruiqing Zhang, Zhongjun He, Hua Wu, Yanan Cao. Non-Autoregressive Chinese ASR Error Correction with Phonological Training. Accepted by NAACL 2022.
+* Zheng Fang, Ruiqing Zhang, Zhongjun He, Hua Wu, Yanan Cao. [Non-Autoregressive Chinese ASR Error Correction with Phonological Training](https://aclanthology.org/2022.naacl-main.432.pdf). In *Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, pages 5907-5917, Seattle, United States. Association for Computational Linguistics.
 
-* Pengzhi Gao, Zhongjun He, Hua Wu, Haifeng Wang. 2022. Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation. Accepted by NAACL 2022.
+* Pengzhi Gao, Zhongjun He, Hua Wu, Haifeng Wang. 2022. [Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation](https://aclanthology.org/2022.naacl-main.289/). In *Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, pages 3938–3948, Seattle, United States. Association for Computational Linguistics.
 
-* Ruiqing Zhang, Zhongjun He, Hua Wu, Haifeng Wang. 2022. Learning Adaptive Segmentation Policy for End-to-End Simultaneous Translation. Accepted by ACL 2022.
+* Ruiqing Zhang, Zhongjun He, Hua Wu, Haifeng Wang. 2022. [Learning Adaptive Segmentation Policy for End-to-End Simultaneous Translation](https://aclanthology.org/2022.acl-long.542/).  In *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, pages 7862–7874, Dublin, Ireland. Association for Computational Linguistics.
 
 * Haifeng Wang, Hua Wu, Zhongjun He, Liang Huang, and Kenneth Ward Church. 2021. [Progress in Machine Translation](https://www.sciencedirect.com/science/article/pii/S2095809921002745). Engineering.  
 
