@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-HE Zhongjun is the Chair of Baidu Artificial Intelligence Technical Committee. He received his PhD degree from the Institute of Computing Technology of Chinese Academy of Sciences, in 2008. His research focuses on machine translation and natural language processing. He currently leads [Baidu Translate](https://fanyi.baidu.com) at [Natural Language Processing Department](https://nlp.baidu.com/homepage/index).  
+HE Zhongjun, a Professor-level Senior Engineer and CCF Distinguished Member, has long been dedicated to the research and development of artificial intelligence, natural language processing, and machine translation.  
+
+He has been the Chair of Baidu Artificial Intelligence Technical Committee. He spearheaded the development of the world’s first internet-based neural machine translation (NMT) system and a semantic unit-driven machine simultaneous interpretation system. In recent years, he has focused his efforts on the research and development of Large Language Models (LLMs). As a core R&D member, he has lecontributed to the success of ERNIE-5.0 and led the development of its multi-modal capabilities, which ranked #1 in China and #8 globally on the Vision Arena (Visual Understanding) leaderboard in January, 2026.
+
+He has published over 30 academic papers in leading conferences and journals and holds more than 160 granted invention patents. His contributions have been recognized with numerous honors, including the Second Prize of the National Scientific and Technological Progress Award, the First Prize of the Beijing Science and Technology Progress Award, the First Prize of the CIE Science and Technology Progress Award, the China Patent Silver Award. He has also been named a Beijing Youth Role Model and an Outstanding Science and Technology Professional of the Chinese Institute of Electronics.
 
 Workshop
 ======
@@ -20,6 +24,9 @@ Tutorial
 
 Selected Publications
 ======
+* Haifeng Wang, Hua Wu, Tian Wu, Yu Sun, Jing Liu, Dianhai Yu, Yanjun Ma, Jingzhou He, Zhongjun He, et al. [ERNIE 5.0 Technical Report](https://arxiv.org/pdf/2602.04705).
+* Pengzhi Gao, Liwen Zhang, Zhongjun He, Hua Wu, Haifeng Wang. [Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization](https://aclanthology.org/2023.emnlp-industry.25.pdf). In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: Industry Track*, pages 243–262.
+* Pengzhi Gao, Liwen Zhang, Zhongjun He, Hua Wu, Haifeng Wang. [Improving zero-shot multilingual neural machine translation by leveraging cross-lingual consistency regularization](https://aclanthology.org/2023.findings-acl.766.pdf). In *Findings of the Association for Computational Linguistics: ACL 2023*, pages 12103–12119.
 * Zheng Fang, Ruiqing Zhang, Zhongjun He, Hua Wu, Yanan Cao. [Non-Autoregressive Chinese ASR Error Correction with Phonological Training](https://aclanthology.org/2022.naacl-main.432.pdf). In *Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, pages 5907-5917, Seattle, United States. Association for Computational Linguistics.
 
 * Pengzhi Gao, Zhongjun He, Hua Wu, Haifeng Wang. 2022. [Bi-SimCut: A Simple Strategy for Boosting Neural Machine Translation](https://aclanthology.org/2022.naacl-main.289/). In *Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, pages 3938–3948, Seattle, United States. Association for Computational Linguistics.
@@ -50,11 +57,15 @@ Selected Publications
 
 Awards
 =====
+* CIE Science and Technology Progress Award (First Prize), 2024
+* Beijing Youth Role Model, 2021
+* Beijing Science and Technology Progress Award (First Prize), 2020
+* CIE Science and Technology Progress Award (First Prize), 2019
 * The 1st place in WMT-19 (Chinese-English Track)
-* Silver Medal of China Patent Award, 2018
-* The Second Prize of the State Preeminent Science and Technology Award of China, 2015
-* The First Prize of the Science and
-Technology Award of the Chinese Institute of Electronics, 2014
+* CIE Outstanding Science and Technology Professional, 2018
+* China Patent Silver Award, 2018
+* National Scientific and Technological Progress Award (Second Prize), 2015
+* CIE Science and Technology Progress Award (First Prize), 2014
 
 Research Activity
 =====
